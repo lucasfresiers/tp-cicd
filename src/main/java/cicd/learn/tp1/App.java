@@ -10,5 +10,6 @@ public class App
     {
         System.out.println( "CI/CD Rocks!" );
         System.out.println("hotfix");
+        System.out.println("test pipeline");
     }
 }
